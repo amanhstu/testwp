@@ -8,8 +8,8 @@
 <channel>
 	<title>
 	Comments on: Sample Page	</title>
-	<atom:link href="http://localhost/wps/wpgit/sample-page/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/wps/wpgit</link>
+	<atom:link href="https://amanhstu.github.io/testwp/sample-page/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amanhstu.github.io/testwp</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Oct 2023 18:10:26 +0000</lastBuildDate>
 	<sy:updatePeriod>

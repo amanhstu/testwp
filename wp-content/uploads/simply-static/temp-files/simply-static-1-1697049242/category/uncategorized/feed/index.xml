@@ -8,9 +8,9 @@
 	>
 
 <channel>
-	<title>Git</title>
-	<atom:link href="http://localhost/wps/wpgit/feed/" rel="self" type="application/rss+xml" />
-	<link>http://localhost/wps/wpgit</link>
+	<title>Uncategorized &#8211; Git</title>
+	<atom:link href="https://amanhstu.github.io/testwp/category/uncategorized/feed/" rel="self" type="application/rss+xml" />
+	<link>https://amanhstu.github.io/testwp</link>
 	<description></description>
 	<lastBuildDate>Wed, 11 Oct 2023 18:10:26 +0000</lastBuildDate>
 	<language>en-US</language>
@@ -21,20 +21,20 @@
 	<generator>https://wordpress.org/?v=6.3.1</generator>
 	<item>
 		<title>Hello world!</title>
-		<link>http://localhost/wps/wpgit/hello-world/</link>
-					<comments>http://localhost/wps/wpgit/hello-world/#comments</comments>
+		<link>https://amanhstu.github.io/testwp/hello-world/</link>
+					<comments>https://amanhstu.github.io/testwp/hello-world/#comments</comments>
 		
 		<dc:creator><![CDATA[admin]]></dc:creator>
 		<pubDate>Wed, 11 Oct 2023 18:10:26 +0000</pubDate>
 				<category><![CDATA[Uncategorized]]></category>
-		<guid isPermaLink="false">http://localhost/wps/wpgit/?p=1</guid>
+		<guid isPermaLink="false">https://amanhstu.github.io/testwp/?p=1</guid>
 
 					<description><![CDATA[Welcome to WordPress. This is your first post. Edit or delete it, then start writing!]]></description>
 										<content:encoded><![CDATA[
 <p>Welcome to WordPress. This is your first post. Edit or delete it, then start writing!</p>
 ]]></content:encoded>
 					
-					<wfw:commentRss>http://localhost/wps/wpgit/hello-world/feed/</wfw:commentRss>
+					<wfw:commentRss>https://amanhstu.github.io/testwp/hello-world/feed/</wfw:commentRss>
 			<slash:comments>1</slash:comments>
 		
 		
